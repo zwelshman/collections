@@ -5,7 +5,7 @@
 * [Learning Lab](learning-lab/README.md)
   * [Introductory Data Science Notebooks](learning-lab/introductory-data-science-notebooks.md)
   * [Intermediate Data Science Notebooks](learning-lab/intermediate-data-science-notebooks.md)
-  * [Data Exploration of Wearable Sensor](learning-lab/data-exploration-of-wearable-sensor.md)
+  * [Jupyter Notebook in the Web Browser](learning-lab/jupyter-notebook-in-the-web-browser.md)
 * [Career Highlights](career-highlights/README.md)
   * [Health Data Research UK](career-highlights/health-data-research-uk.md)
   * [Data Can](career-highlights/data-can.md)
