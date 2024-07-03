@@ -1,6 +1,4 @@
-# Python Basics: Statistics and Probability in Healthcare Data Science
-
-## Python Basics for Statistics and Probability in Healthcare Data Science
+# Statistics and Probability in Healthcare Data Science
 
 This training module covers fundamental Python concepts for descriptive statistics, probability distributions, hypothesis testing, and Bayesian statistics, illustrated through a healthcare example of analyzing clinical trial results.
 

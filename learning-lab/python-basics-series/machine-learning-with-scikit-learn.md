@@ -1,6 +1,4 @@
-# Python Basics: Machine Learning with Scikit-learn
-
-## Python Basics for Machine Learning with Scikit-learn
+# Machine Learning with Scikit-learn
 
 This training module provides an introduction to using Python and the Scikit-learn library for machine learning, with a focus on healthcare applications. We'll cover the key concepts and algorithms for both supervised and unsupervised learning, along with practical code examples.
 

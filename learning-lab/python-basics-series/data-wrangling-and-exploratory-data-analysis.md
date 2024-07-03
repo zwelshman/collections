@@ -1,6 +1,4 @@
-# Python Basics: Data Wrangling and Exploratory Data Analysis
-
-## Python Basics for Data Wrangling and Exploratory Data Analysis
+# Data Wrangling and Exploratory Data Analysis
 
 This training module covers the fundamentals of using Python for data wrangling and exploratory data analysis, with a focus on healthcare applications. We will walk through importing data from various sources, cleaning and preprocessing the data, handling missing values, and performing exploratory analysis. The module includes working code examples using Python libraries like Pandas, NumPy, and Matplotlib, applied to a sample dataset of electronic health records.
 

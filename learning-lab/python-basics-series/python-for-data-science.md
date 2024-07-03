@@ -1,7 +1,5 @@
 # Python for Data Science
 
-## Python Basics for Data Science in Healthcare
-
 Welcome to this training module on the fundamentals of using Python for data science, with a focus on healthcare applications. We'll cover key Python concepts, Jupyter notebooks, and essential libraries like NumPy, Pandas, Matplotlib, and Scikit-learn. Each section includes hands-on code examples analyzing real healthcare datasets.
 
 ### 1. Python Programming Fundamentals
@@ -33,6 +31,10 @@ This demonstrates defining a function to calculate BMI, using a for loop to iter
 ### 2. Jupyter Notebooks
 
 Jupyter Notebooks provide an interactive coding environment perfect for data exploration and sharing analyses. Key features include:
+
+{% embed url="https://jupyter.org/try-jupyter/lab/" %}
+Link to lightweight Jupyter Lab Computing Environment
+{% endembed %}
 
 * Code cells for writing and executing code
 * Markdown cells for text, images, equations
