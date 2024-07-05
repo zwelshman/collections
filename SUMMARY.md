@@ -18,6 +18,7 @@
       * [Jupyter Notebook in the Web Browser](learning-lab/notebooks/data-science-development-environments/jupyter-notebook-in-the-web-browser.md)
       * [PySpark Development Environment](learning-lab/notebooks/data-science-development-environments/pyspark-development-environment.md)
       * [SparklyR Development Environment](learning-lab/notebooks/data-science-development-environments/sparklyr-development-environment.md)
+* [testing area](testing-area.md)
 * [Career Highlights](career-highlights/README.md)
   * [Health Data Research UK](career-highlights/health-data-research-uk.md)
   * [Data Can](career-highlights/data-can.md)
